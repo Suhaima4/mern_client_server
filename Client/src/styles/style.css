@@ -1,0 +1,30 @@
+/* styles.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  height: 100vh;
+  color:black; 
+  font-size:large;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-style:initial;
+  
+  /* Set background color with opacity */
+  background-image: url('https://graphicsfamily.com/wp-content/uploads/edd/2022/01/Recipe-book-Emboss-Design-Mockup-free-download-scaled.jpg');
+  background-color: rgba(70, 47, 126, 0.7); /* Adjust the last value (0.7) for opacity */
+}
+
+.header-container {
+  text-align: left;
+  padding: 20px;
+}
+.page-container{
+  background-color: #c5e0cb;
+
+}
+.saved-form{
+  background-color:whitesmoke;
+
+}
+
